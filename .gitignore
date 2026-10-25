@@ -1,0 +1,14 @@
+## Visual Studio / .NET GitIgnore
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+.vs/
+.vscode/
+[Tt]emp/
+*.log
